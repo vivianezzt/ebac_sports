@@ -22,4 +22,6 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 A página será recarregada se você fizer edições.\
 Você também verá erros de lint no console.
 
+<img src="./img/ebac-sports.png">
+
 
